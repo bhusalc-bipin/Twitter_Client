@@ -22,7 +22,7 @@ Following functionalities are completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/bhusalc-bipin/Twitter_Like/blob/main/demo.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/bhusalc-bipin/Twitter_Client/blob/main/demo.gif' width='' alt='Video Walkthrough' />
 
 Another demo got longer and was not able to convert to gif, so I have attached the link the google drive that contains visual demo in .mov extension.
 Link: https://drive.google.com/file/d/13WL63eVCNuY0C4nExxAmYCWpo9IUjkJm/view?usp=sharing
